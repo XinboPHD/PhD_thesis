@@ -1,0 +1,640 @@
+<|startoftext|>Security camera turns on, Air conditioner turns off, Gas level is lesser than a preset value<|endoftext|>
+<|startoftext|>Air conditioner turns off, Gas level is lesser than a preset value, Security alarm turns off<|endoftext|>
+<|startoftext|>Gas level is lesser than a preset value, Security alarm turns off, Time is evening<|endoftext|>
+<|startoftext|>Security alarm turns off, Time is evening, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>Time is evening, Color of Light bulb is changed, Glass break detector detects a break at night<|endoftext|>
+<|startoftext|>User is at vacation, Security camera turns on, Air conditioner turns off, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Security camera turns on, Air conditioner turns off, Temperature is lesser than a preset value, Temperature of Air conditioner increases<|endoftext|>
+<|startoftext|>Temperature of Air conditioner increases, Temperature is lesser than a preset value, Temperature of Air conditioner increases, Glass break detector detects a break at night<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Temperature of Air conditioner increases, Glass break detector detects a break at night, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Temperature of Air conditioner increases, Glass break detector detects a break at night, Security alarm is strobing as well as issuing a siren, Mode is night<|endoftext|>
+<|startoftext|>Phone receives a notification, Security alarm is strobing as well as issuing a siren, End of the day<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, End of the day, Door is opened<|endoftext|>
+<|startoftext|>End of the day, Door is opened, Light bulb turns on<|endoftext|>
+<|startoftext|>Door is opened, Light bulb turns on, Induction cooktop is on and user is away<|endoftext|>
+<|startoftext|>Light bulb turns on, Induction cooktop is on and user is away, Phone receives a notification<|endoftext|>
+<|startoftext|>Gas level is greater than a preset value, Phone receives a notification, Security alarm is strobing as well as issuing a siren, Pulse is higher than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Security alarm is strobing as well as issuing a siren, Pulse is higher than a preset value, Oil warmer turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Pulse is higher than a preset value, Oil warmer turns on, Smoke is detected<|endoftext|>
+<|startoftext|>Pulse is higher than a preset value, Oil warmer turns on, Smoke is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Oil warmer turns on, Smoke is detected, Security alarm is in siren mode, End of the day<|endoftext|>
+<|startoftext|>User is at vacation, Security camera turns on, Air conditioner turns off, User is away<|endoftext|>
+<|startoftext|>Security camera turns on, Air conditioner turns off, User is away, Air conditioner turns off<|endoftext|>
+<|startoftext|>Air conditioner turns off, User is away, Air conditioner turns off, User is away<|endoftext|>
+<|startoftext|>User is away, Air conditioner turns off, User is away, Door is locked<|endoftext|>
+<|startoftext|>Air conditioner turns off, User is away, Door is locked, User is home<|endoftext|>
+<|startoftext|>Security camera turns on, Air conditioner turns off, End of the day<|endoftext|>
+<|startoftext|>Air conditioner turns off, End of the day, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>End of the day, Air quality is lesser than a preset value, Air purifier turns on<|endoftext|>
+<|startoftext|>Air quality is lesser than a preset value, Air purifier turns on, Induction cooktop is on and user is away<|endoftext|>
+<|startoftext|>Air purifier turns on, Induction cooktop is on and user is away, Phone receives a notification<|endoftext|>
+<|startoftext|>Phone receives a notification, Security alarm is strobing as well as issuing a siren, Water leak is detected<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Water leak is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Water leak is detected, Security alarm is in siren mode, Time is night<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, Time is night, Door is locked<|endoftext|>
+<|startoftext|>Time is night, Door is locked, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Gas level is greater than a preset value, Phone receives a notification, Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value, Electric blanket turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value, Electric blanket turns on, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Electric blanket turns on, Temperature is lesser than a preset value, Electric blanket turns on, Pulse is higher than a preset value<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Electric blanket turns on, Pulse is higher than a preset value, Oil warmer turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, User is away, Phone receives a notification and Security camera takes a picture, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>User is away, Phone receives a notification and Security camera takes a picture, Humidity is greater than a preset value, Smart mirror turns off<|endoftext|>
+<|startoftext|>Phone receives a notification and Security camera takes a picture, Humidity is greater than a preset value, Smart mirror turns off, Doorbell is pushed<|endoftext|>
+<|startoftext|>Humidity is greater than a preset value, Smart mirror turns off, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Smart mirror turns off, Doorbell is pushed, Security camera turns on, Doorbell is pushed<|endoftext|>
+<|startoftext|>User is away, Phone receives a notification and Security camera takes a picture, Illuminance is greater than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification and Security camera takes a picture, Illuminance is greater than a preset value, Light bulb turns off<|endoftext|>
+<|startoftext|>Illuminance is greater than a preset value, Light bulb turns off, Filter of the refrigerator needs replacement<|endoftext|>
+<|startoftext|>Light bulb turns off, Filter of the refrigerator needs replacement, Phone receives a notification<|endoftext|>
+<|startoftext|>Filter of the refrigerator needs replacement, Phone receives a notification, Time is morning<|endoftext|>
+<|startoftext|>User is away, Phone receives a notification and Security camera takes a picture, Refrigerator temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification and Security camera takes a picture, Refrigerator temperature is greater than a preset value, Refrigerator turns on<|endoftext|>
+<|startoftext|>Refrigerator temperature is greater than a preset value, Refrigerator turns on, Moisture is not detected<|endoftext|>
+<|startoftext|>Refrigerator turns on, Moisture is not detected, Heater turns off<|endoftext|>
+<|startoftext|>Moisture is not detected, Heater turns off, Time is night<|endoftext|>
+<|startoftext|>Time is night, Pulse is higher than a preset value, Light bulb changes color and Speaker is on, Garage door opens and user is away<|endoftext|>
+<|startoftext|>Pulse is higher than a preset value, Light bulb changes color and Speaker is on, Garage door opens and user is away, Garage door is closed<|endoftext|>
+<|startoftext|>Light bulb changes color and Speaker is on, Garage door opens and user is away, Garage door is closed, End of the day<|endoftext|>
+<|startoftext|>Garage door opens and user is away, Garage door is closed, End of the day, Beacon device detects presence<|endoftext|>
+<|startoftext|>Garage door is closed, End of the day, Beacon device detects presence, User is home<|endoftext|>
+<|startoftext|>Pulse is higher than a preset value, Light bulb changes color and Speaker is on, Doorbell is pushed<|endoftext|>
+<|startoftext|>Light bulb changes color and Speaker is on, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Doorbell is pushed, Security camera turns on, Doorbell is pushed<|endoftext|>
+<|startoftext|>Security camera turns on, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Doorbell is pushed, Security camera turns on, End of the day<|endoftext|>
+<|startoftext|>Pulse is higher than a preset value, Light bulb changes color and Speaker is on, User is away<|endoftext|>
+<|startoftext|>Light bulb changes color and Speaker is on, User is away, Air purifier and Light bulb turn off<|endoftext|>
+<|startoftext|>User is away, Air purifier and Light bulb turn off, Button is pushed<|endoftext|>
+<|startoftext|>Air purifier and Light bulb turn off, Button is pushed, Light bulb and TV turns off<|endoftext|>
+<|startoftext|>Button is pushed, Light bulb and TV turns off, Button is pushed<|endoftext|>
+<|startoftext|>Time is night, Pulse is higher than a preset value, Light bulb changes color and Speaker is on, User is away<|endoftext|>
+<|startoftext|>"Pulse is higher than a preset value, Light bulb changes color and Speaker is on, User is away, Door is locked, Lighting remote is off, Robot vacuum and Thermostat are turned on"<|endoftext|>
+<|startoftext|>"Light bulb changes color and Speaker is on, User is away, Door is locked, Lighting remote is off, Robot vacuum and Thermostat are turned on, Time is evening"<|endoftext|>
+<|startoftext|>"User is away, Door is locked, Lighting remote is off, Robot vacuum and Thermostat are turned on, Time is evening, Light bulb is on and window shades/blinds closes"<|endoftext|>
+<|startoftext|>"Door is locked, Lighting remote is off, Robot vacuum and Thermostat are turned on, Time is evening, Light bulb is on and window shades/blinds closes, User is away"<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, User is away, Phone receives a notification and Security camera takes a picture, Air conditioner turns on and temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>User is away, Phone receives a notification and Security camera takes a picture, Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases<|endoftext|>
+<|startoftext|>Phone receives a notification and Security camera takes a picture, Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases, Coffee maker is off in the morning<|endoftext|>
+<|startoftext|>Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases, Coffee maker is off in the morning, Coffee maker turns on<|endoftext|>
+<|startoftext|>Temperature of Air conditioner increases, Coffee maker is off in the morning, Coffee maker turns on, Light bulb is off and motion is detected<|endoftext|>
+<|startoftext|>User is away, Fill Smart feeder with food, User is at vacation<|endoftext|>
+<|startoftext|>"Fill Smart feeder with food, User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off"<|endoftext|>
+<|startoftext|>"User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off, Door is opened and user is away"<|endoftext|>
+<|startoftext|>"Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off, Door is opened and user is away, Security alarm is strobing as well as issuing a siren"<|endoftext|>
+<|startoftext|>Door is opened and user is away, Security alarm is strobing as well as issuing a siren, User is at vacation<|endoftext|>
+<|startoftext|>User is away, Fill Smart feeder with food, Bread maker turns off and Time is morning<|endoftext|>
+<|startoftext|>Fill Smart feeder with food, Bread maker turns off and Time is morning, Bread maker turns on<|endoftext|>
+<|startoftext|>Bread maker turns off and Time is morning, Bread maker turns on, Window opened<|endoftext|>
+<|startoftext|>Bread maker turns on, Window opened, Security camera takes a photo<|endoftext|>
+<|startoftext|>Bread maker turns off and Time is morning, Bread maker turns on, Window opened<|endoftext|>
+<|startoftext|>Time is night, User is home, Water in the Bath tub is warm, Dust level is greater than a preset value<|endoftext|>
+<|startoftext|>User is home, Water in the Bath tub is warm, Dust level is greater than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Water in the Bath tub is warm, Dust level is greater than a preset value, Phone receives a notification, Doorbell is pushed<|endoftext|>
+<|startoftext|>Dust level is greater than a preset value, Phone receives a notification, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Phone receives a notification, Doorbell is pushed, Security camera turns on, Window opened at night<|endoftext|>
+<|startoftext|>Presence sensor doesn't detect that the user is present, User is away, Fill Smart feeder with food, Smoke detector is tampered with<|endoftext|>
+<|startoftext|>User is away, Fill Smart feeder with food, Smoke detector is tampered with, Phone receives a notification<|endoftext|>
+<|startoftext|>Fill Smart feeder with food, Smoke detector is tampered with, Phone receives a notification, Fan turns on<|endoftext|>
+<|startoftext|>Smoke detector is tampered with, Phone receives a notification, Fan turns on, End of the day<|endoftext|>
+<|startoftext|>Phone receives a notification, Fan turns on, End of the day, Door is in unlocked state at night and no one is present<|endoftext|>
+<|startoftext|>Presence sensor doesn't detect that the user is present, User is away, Fill Smart feeder with food, Air conditioner turns on and Time is night<|endoftext|>
+<|startoftext|>User is away, Fill Smart feeder with food, Air conditioner turns on and Time is night, Air conditioner turns off<|endoftext|>
+<|startoftext|>Fill Smart feeder with food, Air conditioner turns on and Time is night, Air conditioner turns off, Doorbell is pushed<|endoftext|>
+<|startoftext|>Air conditioner turns on and Time is night, Air conditioner turns off, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Air conditioner turns off, Doorbell is pushed, Security camera turns on, Air conditioner turns on and Time is night<|endoftext|>
+<|startoftext|>Time is night, User is home, Water in the Bath tub is warm, End of the day<|endoftext|>
+<|startoftext|>User is home, Water in the Bath tub is warm, End of the day, Time is morning<|endoftext|>
+<|startoftext|>Water in the Bath tub is warm, End of the day, Time is morning, Weather station declares the weather<|endoftext|>
+<|startoftext|>Time is morning, Weather station declares the weather, Traffic is heavy in the morning, User is notified of the traffic<|endoftext|>
+<|startoftext|>Weather station declares the weather, Traffic is heavy in the morning, User is notified of the traffic, Time is morning<|endoftext|>
+<|startoftext|>User is home, Water in the Bath tub is warm, Security alarm is strobing<|endoftext|>
+<|startoftext|>Water in the Bath tub is warm, Security alarm is strobing, Gas level is greater than a preset value and user is not in vacation<|endoftext|>
+<|startoftext|>Security alarm is strobing, Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification, User is at vacation<|endoftext|>
+<|startoftext|>"Security alarm is strobing as well as issuing a siren and Phone receives a notification, User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off"<|endoftext|>
+<|startoftext|>User is home, Water in the Bath tub is warm, Phone receives a notification<|endoftext|>
+<|startoftext|>Water in the Bath tub is warm, Phone receives a notification, Time is evening<|endoftext|>
+<|startoftext|>Phone receives a notification, Time is evening, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>Time is evening, Color of Light bulb is changed, Phone receives a notification<|endoftext|>
+<|startoftext|>Color of Light bulb is changed, Phone receives a notification, Presence sensor doesn't detect that the user is present<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, End of the day<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, End of the day, Smart mirror and Speaker turn on<|endoftext|>
+<|startoftext|>End of the day, Smart mirror and Speaker turn on, Glass break detector detects a break<|endoftext|>
+<|startoftext|>Temperature is greater than a preset value, Security alarm is strobing as well as issuing a siren, Security alarm is strobing<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Security alarm is strobing, Smoke is detected<|endoftext|>
+<|startoftext|>Security alarm is strobing, Smoke is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Smoke is detected, Security alarm is in siren mode, Doorbell is pushed<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Temperature is greater than a preset value, Security alarm is strobing as well as issuing a siren, Motion is detected and user is away<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Motion is detected and user is away, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Motion is detected and user is away, Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value and user is home<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value and user is home, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value and user is home, Air conditioner turns on mode is set to auto, Temperature is equal to a preset value and the user is home<|endoftext|>
+<|startoftext|>User is away, Motion is detected, Security alarm is strobing as well as issuing a siren, Smoke is detected<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Smoke is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Smoke is detected, Security alarm is in siren mode, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Security alarm is in siren mode, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, Time is night<|endoftext|>
+<|startoftext|>User is away, Motion is detected, Security alarm is strobing as well as issuing a siren, Presence sensor detects the presence of the user<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Smart mirror and Speaker turn on, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Smoke is detected, Temperature is greater than a preset value, Security alarm is strobing as well as issuing a siren, Motion is detected<|endoftext|>
+<|startoftext|>Temperature is greater than a preset value, Security alarm is strobing as well as issuing a siren, Motion is detected, Security camera turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Motion is detected, Security camera turns on, Beacon device doesn't detect anyone present and Light bulb turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Security camera turns on, Beacon device doesn't detect anyone present and Light bulb turns on, Light bulb turns off<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Beacon device doesn't detect anyone present and Light bulb turns on, Light bulb turns off, Beacon device doesn't detect anyone present and Light bulb turns on<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Time is evening and user is away<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Time is evening and user is away, Light bulb turns on<|endoftext|>
+<|startoftext|>Time is evening and user is away, Light bulb turns on, User is away<|endoftext|>
+<|startoftext|>Light bulb turns on, User is away, Security camera turns on<|endoftext|>
+<|startoftext|>User is away, Security camera turns on, Car is detected near garage and Button is pressed.<|endoftext|>
+<|startoftext|>Smoke is detected, Temperature is greater than a preset value, Security alarm is strobing as well as issuing a siren, Smoke is detected<|endoftext|>
+<|startoftext|>Temperature is greater than a preset value, Security alarm is strobing as well as issuing a siren, Smoke is detected, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Smoke is detected, Security alarm is strobing as well as issuing a siren, Illuminance is lesser than a preset value<|endoftext|>
+<|startoftext|>Smoke is detected, Security alarm is strobing as well as issuing a siren, Illuminance is lesser than a preset value, Light bulb turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Illuminance is lesser than a preset value, Light bulb turns on, Illuminance is lesser than a preset value<|endoftext|>
+<|startoftext|>TV turns off, Audio Player turns on, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>Audio Player turns on, Humidity is greater than a preset value, Smart mirror turns off<|endoftext|>
+<|startoftext|>Humidity is greater than a preset value, Smart mirror turns off, End of the day<|endoftext|>
+<|startoftext|>Smart mirror turns off, End of the day, Refrigerator temperature is greater than a preset value<|endoftext|>
+<|startoftext|>End of the day, Refrigerator temperature is greater than a preset value, Refrigerator turns on<|endoftext|>
+<|startoftext|>TV turns off, Audio Player turns on, Smoke detector is tampered with<|endoftext|>
+<|startoftext|>Audio Player turns on, Smoke detector is tampered with, Phone receives a notification<|endoftext|>
+<|startoftext|>Smoke detector is tampered with, Phone receives a notification, Battery level in the Smoke detector is below a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Battery level in the Smoke detector is below a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Battery level in the Smoke detector is below a preset value, Phone receives a notification, Air quality is greater than a preset value<|endoftext|>
+<|startoftext|>Light bulb turns on, TV turns off, Audio Player turns on, Coffee maker turns off in the morning<|endoftext|>
+<|startoftext|>TV turns off, Audio Player turns on, Coffee maker turns off in the morning, Coffee maker turns on<|endoftext|>
+<|startoftext|>Audio Player turns on, Coffee maker turns off in the morning, Coffee maker turns on, Light bulb is on and motion is not detected<|endoftext|>
+<|startoftext|>Coffee maker turns off in the morning, Coffee maker turns on, Light bulb is on and motion is not detected, Light bulb turns off<|endoftext|>
+<|startoftext|>Coffee maker turns on, Light bulb is on and motion is not detected, Light bulb turns off, Air conditioner turns on and temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Clothes in the Dryer are completely dry, Dryer is closed, Clothes dryer is in 'ready' mode, End of the day<|endoftext|>
+<|startoftext|>Dryer is closed, Clothes dryer is in 'ready' mode, End of the day, User is away<|endoftext|>
+<|startoftext|>Clothes dryer is in 'ready' mode, End of the day, User is away, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>End of the day, User is away, Thermostat turns on and the mode is set to auto, End of the day<|endoftext|>
+<|startoftext|>User is away, Thermostat turns on and the mode is set to auto, End of the day, Mode is night<|endoftext|>
+<|startoftext|>Clothes in the Dryer are completely dry, Dryer is closed, Clothes dryer is in 'ready' mode, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Dryer is closed, Clothes dryer is in 'ready' mode, Temperature is lesser than a preset value, Temperature of Air conditioner increases<|endoftext|>
+<|startoftext|>Clothes dryer is in 'ready' mode, Temperature is lesser than a preset value, Temperature of Air conditioner increases, Smoke detector is tampered with<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Temperature of Air conditioner increases, Smoke detector is tampered with, Phone receives a notification<|endoftext|>
+<|startoftext|>Temperature of Air conditioner increases, Smoke detector is tampered with, Phone receives a notification, Time is morning<|endoftext|>
+<|startoftext|>Dryer is closed, Clothes dryer is in 'ready' mode, Moisture sensor detects moisture<|endoftext|>
+<|startoftext|>Clothes dryer is in 'ready' mode, Moisture sensor detects moisture, Clothes dryer is in 'ready' mode<|endoftext|>
+<|startoftext|>Moisture sensor detects moisture, Clothes dryer is in 'ready' mode, Time is morning<|endoftext|>
+<|startoftext|>Clothes dryer is in 'ready' mode, Time is morning, Coffee maker turns on<|endoftext|>
+<|startoftext|>Time is morning, Coffee maker turns on, Door is opened<|endoftext|>
+<|startoftext|>Light bulb turns on, TV turns off, Audio Player turns on, Moisture is not detected<|endoftext|>
+<|startoftext|>TV turns off, Audio Player turns on, Moisture is not detected, Heater turns off<|endoftext|>
+<|startoftext|>Audio Player turns on, Moisture is not detected, Heater turns off, Temperature is lesser than a preset value in the morning<|endoftext|>
+<|startoftext|>Moisture is not detected, Heater turns off, Temperature is lesser than a preset value in the morning, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Heater turns off, Temperature is lesser than a preset value in the morning, Thermostat turns on and the mode is set to auto, Temperature is lesser than a preset value in the morning<|endoftext|>
+<|startoftext|>Dryer is closed, Clothes dryer is in 'ready' mode, Glass break detector detects a break and user is in vacation<|endoftext|>
+<|startoftext|>Clothes dryer is in 'ready' mode, Glass break detector detects a break and user is in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Glass break detector detects a break and user is in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification, Door is opened in vacation mode<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren and Phone receives a notification, Door is opened in vacation mode, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Door is opened in vacation mode, Security alarm is strobing as well as issuing a siren and Phone receives a notification, It is night and not raining<|endoftext|>
+<|startoftext|>Garage door is closed, Security System is armed, Air conditioner turns on and Time is night<|endoftext|>
+<|startoftext|>Security System is armed, Air conditioner turns on and Time is night, Air conditioner turns off<|endoftext|>
+<|startoftext|>Air conditioner turns on and Time is night, Air conditioner turns off, User is away<|endoftext|>
+<|startoftext|>Air conditioner turns off, User is away, Door is locked<|endoftext|>
+<|startoftext|>User is away, Door is locked, Humidity is lesser than a preset value<|endoftext|>
+<|startoftext|>Doorbell is pushed, Phone receives a notification, Motion is detected<|endoftext|>
+<|startoftext|>Phone receives a notification, Motion is detected, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Temperature is lesser than a preset value, Electric blanket turns on<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Electric blanket turns on, Pulse is higher than a preset value<|endoftext|>
+<|startoftext|>Shades/blinds closes, Garage door is closed, Security System is armed, Time is morning<|endoftext|>
+<|startoftext|>Garage door is closed, Security System is armed, Time is morning, Shades/blinds opens<|endoftext|>
+<|startoftext|>Time is morning, Shades/blinds opens, End of the day, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>Shades/blinds opens, End of the day, Humidity is greater than a preset value, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>End of the day, Humidity is greater than a preset value, Air conditioner turns on and mode is set to auto, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>Garage door is closed, Security System is armed, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>Security System is armed, Air quality is lesser than a preset value, Air purifier turns on<|endoftext|>
+<|startoftext|>Air quality is lesser than a preset value, Air purifier turns on, Button is pushed<|endoftext|>
+<|startoftext|>Air purifier turns on, Button is pushed, Light bulb and TV turns off<|endoftext|>
+<|startoftext|>Button is pushed, Light bulb and TV turns off, End of the day<|endoftext|>
+<|startoftext|>Security camera turns on, Doorbell is pushed, Phone receives a notification, End of the day<|endoftext|>
+<|startoftext|>Doorbell is pushed, Phone receives a notification, End of the day, Humidity is lesser than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, End of the day, Humidity is lesser than a preset value, Humidifier turns on<|endoftext|>
+<|startoftext|>End of the day, Humidity is lesser than a preset value, Humidifier turns on, Door is opened<|endoftext|>
+<|startoftext|>Humidity is lesser than a preset value, Humidifier turns on, Door is opened, Light bulb turns on<|endoftext|>
+<|startoftext|>Security camera turns on, Doorbell is pushed, Phone receives a notification, Door is unlocked and the user is away<|endoftext|>
+<|startoftext|>Doorbell is pushed, Phone receives a notification, Door is unlocked and the user is away, Door is locked<|endoftext|>
+<|startoftext|>Phone receives a notification, Door is unlocked and the user is away, Door is locked, Garage door opens and user is away<|endoftext|>
+<|startoftext|>Door is unlocked and the user is away, Door is locked, Garage door opens and user is away, Garage door is closed<|endoftext|>
+<|startoftext|>Door is locked, Garage door opens and user is away, Garage door is closed, End of the day<|endoftext|>
+<|startoftext|>Shades/blinds closes, Garage door is closed, Security System is armed, End of the day<|endoftext|>
+<|startoftext|>Garage door is closed, Security System is armed, End of the day, Water leak is detected<|endoftext|>
+<|startoftext|>Security System is armed, End of the day, Water leak is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>End of the day, Water leak is detected, Security alarm is in siren mode, Motion is detected<|endoftext|>
+<|startoftext|>Water leak is detected, Security alarm is in siren mode, Motion is detected, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Doorbell is pushed, Phone receives a notification, Time is morning<|endoftext|>
+<|startoftext|>Phone receives a notification, Time is morning, Coffee maker turns on<|endoftext|>
+<|startoftext|>Time is morning, Coffee maker turns on, Time is night<|endoftext|>
+<|startoftext|>Coffee maker turns on, Time is night, Fan turns on<|endoftext|>
+<|startoftext|>Time is night, Fan turns on, End of the day<|endoftext|>
+<|startoftext|>Food amount in the Pet Feeder is low, Phone receives a notification, Temperature of Air conditioner decreases, End of the day<|endoftext|>
+<|startoftext|>Phone receives a notification, Temperature of Air conditioner decreases, End of the day, Time is evening<|endoftext|>
+<|startoftext|>Temperature of Air conditioner decreases, End of the day, Time is evening, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>End of the day, Time is evening, Color of Light bulb is changed, Gas level is greater than a preset value<|endoftext|>
+<|startoftext|>Time is evening, Color of Light bulb is changed, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Food amount in the Pet Feeder is low, Phone receives a notification, Light bulb turns off<|endoftext|>
+<|startoftext|>Phone receives a notification, Light bulb turns off, User is away<|endoftext|>
+<|startoftext|>Light bulb turns off, User is away, Door is locked<|endoftext|>
+<|startoftext|>User is away, Door is locked, User is sleeping<|endoftext|>
+<|startoftext|>Door is locked, User is sleeping, Light bulb turns off<|endoftext|>
+<|startoftext|>Phone receives a notification, Temperature of Air conditioner decreases, Time is evening<|endoftext|>
+<|startoftext|>Temperature of Air conditioner decreases, Time is evening, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>Time is evening, Color of Light bulb is changed, End of the day<|endoftext|>
+<|startoftext|>Color of Light bulb is changed, End of the day, Air conditioner turns on and Time is night<|endoftext|>
+<|startoftext|>End of the day, Air conditioner turns on and Time is night, Air conditioner turns off<|endoftext|>
+<|startoftext|>Phone receives a notification, Temperature of Air conditioner decreases, Weather is cold<|endoftext|>
+<|startoftext|>Temperature of Air conditioner decreases, Weather is cold, Thermostat turns on and is set to auto mode and phone receives a notification<|endoftext|>
+<|startoftext|>Weather is cold, Thermostat turns on and is set to auto mode and phone receives a notification, End of the day<|endoftext|>
+<|startoftext|>Thermostat turns on and is set to auto mode and phone receives a notification, End of the day, Smoke detector is tampered with<|endoftext|>
+<|startoftext|>End of the day, Smoke detector is tampered with, Phone receives a notification<|endoftext|>
+<|startoftext|>Security camera takes a photo, Food amount in the Pet Feeder is low, Phone receives a notification, Door is opened<|endoftext|>
+<|startoftext|>Food amount in the Pet Feeder is low, Phone receives a notification, Door is opened, Phone receives a notification<|endoftext|>
+<|startoftext|>Phone receives a notification, Door is opened, Phone receives a notification, Pressure detected by Blood pressure monitor is greater than a preset value<|endoftext|>
+<|startoftext|>Door is opened, Phone receives a notification, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Phone receives a notification, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, Gas stove is on and timer is completed<|endoftext|>
+<|startoftext|>Food amount in the Pet Feeder is low, Phone receives a notification, Temperature of Air conditioner decreases, Light bulb is off and motion is detected<|endoftext|>
+<|startoftext|>Phone receives a notification, Temperature of Air conditioner decreases, Light bulb is off and motion is detected, Light bulb turns on<|endoftext|>
+<|startoftext|>Temperature of Air conditioner decreases, Light bulb is off and motion is detected, Light bulb turns on, Air conditioner turns on and temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Light bulb is off and motion is detected, Light bulb turns on, Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases<|endoftext|>
+<|startoftext|>Light bulb turns on, Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases, Air conditioner turns on and Time is morning<|endoftext|>
+<|startoftext|>Security camera takes a photo, Food amount in the Pet Feeder is low, Phone receives a notification, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>Food amount in the Pet Feeder is low, Phone receives a notification, Air quality is lesser than a preset value, Air purifier turns on<|endoftext|>
+<|startoftext|>Phone receives a notification, Air quality is lesser than a preset value, Air purifier turns on, Battery level in the Smoke detector is below a preset value<|endoftext|>
+<|startoftext|>Air quality is lesser than a preset value, Air purifier turns on, Battery level in the Smoke detector is below a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Air purifier turns on, Battery level in the Smoke detector is below a preset value, Phone receives a notification, Battery level in the Smoke detector is below a preset value<|endoftext|>
+<|startoftext|>Food amount in the Pet Feeder is low, Phone receives a notification, Washer completes its task<|endoftext|>
+<|startoftext|>Phone receives a notification, Washer completes its task, Phone receives a notification<|endoftext|>
+<|startoftext|>Washer completes its task, Phone receives a notification, Time is morning<|endoftext|>
+<|startoftext|>Phone receives a notification, Time is morning, Light bulb turns off<|endoftext|>
+<|startoftext|>Time is morning, Light bulb turns off, Time is night<|endoftext|>
+<|startoftext|>Sleep monitor turns on, Smart assistant notifies the user, Speaker turns on, Door is locked<|endoftext|>
+<|startoftext|>Smart assistant notifies the user, Speaker turns on, Door is locked, Garage door is open and user is away<|endoftext|>
+<|startoftext|>Speaker turns on, Door is locked, Garage door is open and user is away, Garage door is closed<|endoftext|>
+<|startoftext|>Door is locked, Garage door is open and user is away, Garage door is closed, Washer completes its task<|endoftext|>
+<|startoftext|>Garage door is open and user is away, Garage door is closed, Washer completes its task, Phone receives a notification<|endoftext|>
+<|startoftext|>Smart assistant notifies the user, Speaker turns on, User is away<|endoftext|>
+<|startoftext|>Speaker turns on, User is away, Gas stove turns off<|endoftext|>
+<|startoftext|>User is away, Gas stove turns off, User is away<|endoftext|>
+<|startoftext|>Gas stove turns off, User is away, Microwave/oven turns off<|endoftext|>
+<|startoftext|>User is away, Microwave/oven turns off, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>Sleep monitor turns on, Smart assistant notifies the user, Speaker turns on, Gas level is greater than a preset value and user is not in vacation<|endoftext|>
+<|startoftext|>Smart assistant notifies the user, Speaker turns on, Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Speaker turns on, Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification, User is at vacation<|endoftext|>
+<|startoftext|>"Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification, User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off"<|endoftext|>
+<|startoftext|>"Security alarm is strobing as well as issuing a siren and Phone receives a notification, User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off, Door is opened and user is away"<|endoftext|>
+<|startoftext|>Daily news is reported to the user, Thermostat temperature increases, Security alarm is strobing<|endoftext|>
+<|startoftext|>Thermostat temperature increases, Security alarm is strobing, Doorbell is pushed<|endoftext|>
+<|startoftext|>Security alarm is strobing, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Doorbell is pushed, Security camera turns on, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>Security camera turns on, Humidity is greater than a preset value, Smart mirror turns off<|endoftext|>
+<|startoftext|>Daily news is reported to the user, Thermostat temperature increases, Gas level is greater than a preset value<|endoftext|>
+<|startoftext|>Thermostat temperature increases, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren and Phone receives a notification, End of the day<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren and Phone receives a notification, End of the day, User is sleeping<|endoftext|>
+<|startoftext|>End of the day, User is sleeping, Light bulb turns off<|endoftext|>
+<|startoftext|>Smart assistant notifies the user, Speaker turns on, End of the day<|endoftext|>
+<|startoftext|>Speaker turns on, End of the day, Temperature detected by Coffee maker is above a preset value<|endoftext|>
+<|startoftext|>End of the day, Temperature detected by Coffee maker is above a preset value, Coffee maker turns off<|endoftext|>
+<|startoftext|>Temperature detected by Coffee maker is above a preset value, Coffee maker turns off, Smart assistant is given a voice command<|endoftext|>
+<|startoftext|>Coffee maker turns off, Smart assistant is given a voice command, Light bulb changes color and Weather station notifies the user of the weather<|endoftext|>
+<|startoftext|>Weather station declares the weather, Daily news is reported to the user, Thermostat temperature increases, User is home<|endoftext|>
+<|startoftext|>Daily news is reported to the user, Thermostat temperature increases, User is home, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Thermostat temperature increases, User is home, Thermostat turns on and the mode is set to auto, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>User is home, Thermostat turns on and the mode is set to auto, Humidity is greater than a preset value, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Humidity is greater than a preset value, Air conditioner turns on and mode is set to auto, It is raining at night<|endoftext|>
+<|startoftext|>Weather station declares the weather, Daily news is reported to the user, Thermostat temperature increases, Door is in unlocked state at night and no one is present<|endoftext|>
+<|startoftext|>Daily news is reported to the user, Thermostat temperature increases, Door is in unlocked state at night and no one is present, Door is locked<|endoftext|>
+<|startoftext|>Thermostat temperature increases, Door is in unlocked state at night and no one is present, Door is locked, Temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Door is in unlocked state at night and no one is present, Door is locked, Temperature is greater than a preset value, Thermostat temperature decreases<|endoftext|>
+<|startoftext|>Door is locked, Temperature is greater than a preset value, Thermostat temperature decreases, Motion is not detected and window Shades/blinds closes during the day<|endoftext|>
+<|startoftext|>Door is unlocked, Garage door opener is open, Motion is detected<|endoftext|>
+<|startoftext|>Garage door opener is open, Motion is detected, Light bulb turns on<|endoftext|>
+<|startoftext|>Motion is detected, Light bulb turns on, User is away<|endoftext|>
+<|startoftext|>Light bulb turns on, User is away, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>User is away, Thermostat turns on and the mode is set to auto, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>TV turns on, Thermostat turns on and the mode is set to auto, Motion is detected<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Motion is detected, Light bulb is on and Phone receives a notification<|endoftext|>
+<|startoftext|>Motion is detected, Light bulb is on and Phone receives a notification, Induction cooktop is on and user is away<|endoftext|>
+<|startoftext|>Light bulb is on and Phone receives a notification, Induction cooktop is on and user is away, Phone receives a notification<|endoftext|>
+<|startoftext|>Induction cooktop is on and user is away, Phone receives a notification, User is away<|endoftext|>
+<|startoftext|>TV turns on, Thermostat turns on and the mode is set to auto, Temperature is lesser than a preset value at night<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Temperature is lesser than a preset value at night, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value at night, Thermostat turns on and the mode is set to auto, Time is morning<|endoftext|>
+<|startoftext|>"Thermostat turns on and the mode is set to auto, Time is morning, Coffee Maker, Robot Vacuum and Light bulb turns on"<|endoftext|>
+<|startoftext|>"Time is morning, Coffee Maker, Robot Vacuum and Light bulb turns on, End of the day"<|endoftext|>
+<|startoftext|>User is home, Door is unlocked, Garage door opener is open, User is away<|endoftext|>
+<|startoftext|>Door is unlocked, Garage door opener is open, User is away, Security camera turns on<|endoftext|>
+<|startoftext|>Garage door opener is open, User is away, Security camera turns on, End of the day<|endoftext|>
+<|startoftext|>User is away, Security camera turns on, End of the day, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security camera turns on, End of the day, Security alarm is in siren mode, Battery level in the Smoke detector is below a preset value<|endoftext|>
+<|startoftext|>User is home, Door is unlocked, Garage door opener is open, End of the day<|endoftext|>
+<|startoftext|>Door is unlocked, Garage door opener is open, End of the day, Pressure detected by Blood pressure monitor is greater than a preset value<|endoftext|>
+<|startoftext|>Garage door opener is open, End of the day, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>End of the day, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, Pressure detected by Blood pressure monitor is lesser than a preset value<|endoftext|>
+<|startoftext|>Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, Pressure detected by Blood pressure monitor is lesser than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Shades/blinds closes, TV turns on, Thermostat turns on and the mode is set to auto, Time is morning<|endoftext|>
+<|startoftext|>TV turns on, Thermostat turns on and the mode is set to auto, Time is morning, Coffee maker turns on<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Time is morning, Coffee maker turns on, User is away<|endoftext|>
+<|startoftext|>Time is morning, Coffee maker turns on, User is away, Light bulb turns off<|endoftext|>
+<|startoftext|>Coffee maker turns on, User is away, Light bulb turns off, Induction cooktop is on and user is away<|endoftext|>
+<|startoftext|>Door is unlocked, Garage door opener is open, Time is evening<|endoftext|>
+<|startoftext|>Garage door opener is open, Time is evening, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>Time is evening, Color of Light bulb is changed, Glass break detector detects a break at night<|endoftext|>
+<|startoftext|>Color of Light bulb is changed, Glass break detector detects a break at night, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Glass break detector detects a break at night, Security alarm is strobing as well as issuing a siren, Thermostat temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Shades/blinds closes, TV turns on, Thermostat turns on and the mode is set to auto, End of the day<|endoftext|>
+<|startoftext|>TV turns on, Thermostat turns on and thee mode is set to auto, End of the day, User is away<|endoftext|>
+<|startoftext|>Thermostat turns on and thee mode is set to auto, End of the day, User is away, Door is locked<|endoftext|>
+<|startoftext|>End of the day, User is away, Door is locked, User is away<|endoftext|>
+<|startoftext|>User is away, Door is locked, User is away, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Glass break detector detects a break, Phone receives a notification, Security camera records a video, Glass break detector detects a break<|endoftext|>
+<|startoftext|>Phone receives a notification, Security camera records a video, Glass break detector detects a break, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Security camera records a video, Glass break detector detects a break, Security alarm is strobing as well as issuing a siren, Time is night<|endoftext|>
+<|startoftext|>Glass break detector detects a break, Security alarm is strobing as well as issuing a siren, Time is night, Door is locked<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Time is night, Door is locked, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>"Thermostat temperature decreases, Light is off, Door is locked and Security system is in 'armed' mode, Air conditioner turns off"<|endoftext|>
+<|startoftext|>"Light is off, Door is locked and Security system is in 'armed' mode, Air conditioner turns off, End of the day"<|endoftext|>
+<|startoftext|>Air conditioner turns off, End of the day, Smart assistant is given a voice command<|endoftext|>
+<|startoftext|>End of the day, Smart assistant is given a voice command, Light bulb turns on<|endoftext|>
+<|startoftext|>Smart assistant is given a voice command, Light bulb turns on, Smart assistant is given a voice command<|endoftext|>
+<|startoftext|>Phone receives a notification, Security camera records a video, Motion is not detected<|endoftext|>
+<|startoftext|>"Security camera records a video, Motion is not detected, Air conditioner, Fan and Light bulb turn off"<|endoftext|>
+<|startoftext|>"Motion is not detected, Air conditioner, Fan and Light bulb turn off, Pressure detected by Blood pressure monitor is greater than a preset value"<|endoftext|>
+<|startoftext|>"Air conditioner, Fan and Light bulb turn off, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification"<|endoftext|>
+<|startoftext|>Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, Time is night<|endoftext|>
+<|startoftext|>Glass break detector detects a break, Phone receives a notification, Security camera records a video, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Security camera records a video, Temperature is lesser than a preset value, Air conditioner and Fan turn off<|endoftext|>
+<|startoftext|>Security camera records a video, Temperature is lesser than a preset value, Air conditioner and Fan turn off, End of the day<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Air conditioner and Fan turn off, End of the day, Smart assistant is given a voice command<|endoftext|>
+<|startoftext|>Air conditioner and Fan turn off, End of the day, Smart assistant is given a voice command, Light bulb turns on<|endoftext|>
+<|startoftext|>"Thermostat temperature decreases, Light is off, Door is locked and Security system is in 'armed' mode, Time is night"<|endoftext|>
+<|startoftext|>"Light is off, Door is locked and Security system is in 'armed' mode, Time is night, Shades/blinds closes"<|endoftext|>
+<|startoftext|>Time is night, Shades/blinds closes, Moisture sensor detects moisture<|endoftext|>
+<|startoftext|>Shades/blinds closes, Moisture sensor detects moisture, Heater turns on<|endoftext|>
+<|startoftext|>Moisture sensor detects moisture, Heater turns on, Time is morning<|endoftext|>
+<|startoftext|>"Mode is night, Thermostat temperature decreases, Light is off, Door is locked and Security system is in 'armed' mode, Air quality is lesser than a preset value"<|endoftext|>
+<|startoftext|>"Thermostat temperature decreases, Light is off, Door is locked and Security system is in 'armed' mode, Air quality is lesser than a preset value, Air purifier turns on"<|endoftext|>
+<|startoftext|>"Light is off, Door is locked and Security system is in 'armed' mode, Air quality is lesser than a preset value, Air purifier turns on, Air conditioner turns on and temperature is greater than a preset value"<|endoftext|>
+<|startoftext|>Air quality is lesser than a preset value, Air purifier turns on, Air conditioner turns on and temperature is greater than a preset value, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>Air purifier turns on, Air conditioner turns on and temperature is greater than a preset value, Air conditioner turns on and mode is set to auto, Moisture is not detected<|endoftext|>
+<|startoftext|>"Mode is night, Thermostat temperature decreases, Light is off, Door is locked and Security system is in 'armed' mode, Dust level is greater than a preset value"<|endoftext|>
+<|startoftext|>"Thermostat temperature decreases, Light is off, Door is locked and Security system is in 'armed' mode, Dust level is greater than a preset value, Phone receives a notification"<|endoftext|>
+<|startoftext|>"Light is off, Door is locked and Security system is in 'armed' mode, Dust level is greater than a preset value, Phone receives a notification, Air quality is greater than a preset value"<|endoftext|>
+<|startoftext|>Dust level is greater than a preset value, Phone receives a notification, Air quality is greater than a preset value, Air purifier turns off<|endoftext|>
+<|startoftext|>Phone receives a notification, Air quality is greater than a preset value, Air purifier turns off, Time is evening<|endoftext|>
+<|startoftext|>Phone receives a notification, Security camera records a video, Refrigerator temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Security camera records a video, Refrigerator temperature is greater than a preset value, Refrigerator turns on<|endoftext|>
+<|startoftext|>Refrigerator temperature is greater than a preset value, Refrigerator turns on, Time is morning<|endoftext|>
+<|startoftext|>Refrigerator turns on, Time is morning, Shades/blinds opens<|endoftext|>
+<|startoftext|>Time is morning, Shades/blinds opens, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>Weather station declares the weather, Weather station declares the weather, Phone receives a notification, Motion is detected<|endoftext|>
+<|startoftext|>Weather station declares the weather, Phone receives a notification, Motion is detected, Light bulb is on and Phone receives a notification<|endoftext|>
+<|startoftext|>Phone receives a notification, Motion is detected, Light bulb is on and Phone receives a notification, Induction cooktop is on and user is away<|endoftext|>
+<|startoftext|>Motion is detected, Light bulb is on and Phone receives a notification, Induction cooktop is on and user is away, Phone receives a notification<|endoftext|>
+<|startoftext|>Light bulb is on and Phone receives a notification, Induction cooktop is on and user is away, Phone receives a notification, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>Motion is detected, Water heater turns on, Air conditioner turns on and temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Water heater turns on, Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases<|endoftext|>
+<|startoftext|>Air conditioner turns on and temperature is lesser than a preset value, Temperature of Air conditioner increases, Window opened<|endoftext|>
+<|startoftext|>Temperature of Air conditioner increases, Window opened, Security camera takes a photo<|endoftext|>
+<|startoftext|>Window opened, Security camera takes a photo, Window opened<|endoftext|>
+<|startoftext|>Motion is detected, Water heater turns on, Door is opened and user is away<|endoftext|>
+<|startoftext|>Water heater turns on, Door is opened and user is away, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Door is opened and user is away, Security alarm is strobing as well as issuing a siren, User is at vacation<|endoftext|>
+<|startoftext|>"Security alarm is strobing as well as issuing a siren, User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off"<|endoftext|>
+<|startoftext|>"User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off, It is night and not raining"<|endoftext|>
+<|startoftext|>Weather station declares the weather, Phone receives a notification, Air quality is lesser than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Air quality is lesser than a preset value, Air purifier turns on<|endoftext|>
+<|startoftext|>Air quality is lesser than a preset value, Air purifier turns on, Time is night<|endoftext|>
+<|startoftext|>Air purifier turns on, Time is night, Channel in TV is changed<|endoftext|>
+<|startoftext|>Time is night, Channel in TV is changed, User is sleeping<|endoftext|>
+<|startoftext|>Door is unlocked, Motion is detected, Water heater turns on, Gas level is greater than a preset value and user is not in vacation<|endoftext|>
+<|startoftext|>Motion is detected, Water heater turns on, Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren and Phone receives a notification, Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification, Door is opened in vacation mode<|endoftext|>
+<|startoftext|>Gas level is greater than a preset value and user is not in vacation, Security alarm is strobing as well as issuing a siren and Phone receives a notification, Door is opened in vacation mode, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren and Phone receives a notification, Door is opened in vacation mode, Security alarm is strobing as well as issuing a siren and Phone receives a notification, Door is opened and user is away<|endoftext|>
+<|startoftext|>Weather station declares the weather, Weather station declares the weather, Phone receives a notification, Time is morning<|endoftext|>
+<|startoftext|>Weather station declares the weather, Phone receives a notification, Time is morning, Shades/blinds opens<|endoftext|>
+<|startoftext|>Phone receives a notification, Time is morning, Shades/blinds opens, Refrigerator temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Time is morning, Shades/blinds opens, Refrigerator temperature is greater than a preset value, Refrigerator turns on<|endoftext|>
+<|startoftext|>Shades/blinds opens, Refrigerator temperature is greater than a preset value, Refrigerator turns on, Time is morning<|endoftext|>
+<|startoftext|>Weather station declares the weather, Phone receives a notification, Smoke is detected and temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Smoke is detected and temperature is greater than a preset value, Security alarm is issuing a siren and the color of Light changes<|endoftext|>
+<|startoftext|>Smoke is detected and temperature is greater than a preset value, Security alarm is issuing a siren and the color of Light changes, It is snowing in the morning<|endoftext|>
+<|startoftext|>Security alarm is issuing a siren and the color of Light changes, It is snowing in the morning, Phone receives a notification<|endoftext|>
+<|startoftext|>It is snowing in the morning, Phone receives a notification, It is raining in the morning<|endoftext|>
+<|startoftext|>Door is unlocked, Motion is detected, Water heater turns on, User is at vacation<|endoftext|>
+<|startoftext|>Motion is detected, Water heater turns on, User is at vacation, Phone receives a notification<|endoftext|>
+<|startoftext|>Water heater turns on, User is at vacation, Phone receives a notification, Door is unlocked and the user is away<|endoftext|>
+<|startoftext|>User is at vacation, Phone receives a notification, Door is unlocked and the user is away, Door is locked<|endoftext|>
+<|startoftext|>Phone receives a notification, Door is unlocked and the user is away, Door is locked, Garage door opens and user is away<|endoftext|>
+<|startoftext|>User is home, Time is night, Thermostat turns on and the mode is set to auto, Temperature is lesser than a preset value at night<|endoftext|>
+<|startoftext|>Time is night, Thermostat turns on and the mode is set to auto, Temperature is lesser than a preset value at night, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Temperature is lesser than a preset value at night, Thermostat turns on and the mode is set to auto, Time is morning<|endoftext|>
+<|startoftext|>"Temperature is lesser than a preset value at night, Thermostat turns on and the mode is set to auto, Time is morning, Coffee maker, Light bulb and Robot vacuum turns on"<|endoftext|>
+<|startoftext|>"Thermostat turns on and the mode is set to auto, Time is morning, Coffee maker, Light bulb and Robot vacuum turns on, Temperature is lesser than a preset value at night"<|endoftext|>
+<|startoftext|>Time is night, Thermostat turns on and the mode is set to auto, Time is morning<|endoftext|>
+<|startoftext|>"Thermostat turns on and the mode is set to auto, Time is morning, Coffee maker, Light bulb and Robot vacuum turns on"<|endoftext|>
+<|startoftext|>"Time is morning, Coffee maker, Light bulb and Robot vacuum turns on, End of the day"<|endoftext|>
+<|startoftext|>"Coffee maker, Light bulb and Robot vacuum turns on, End of the day, Temperature is lesser than a preset value at night"<|endoftext|>
+<|startoftext|>End of the day, Temperature is lesser than a preset value at night, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Rice cooker turns on, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on<|endoftext|>
+<|startoftext|>Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, End of the day<|endoftext|>
+<|startoftext|>Smart mirror and Speaker turn on, End of the day, Humidity and temperature are greater than their preset values<|endoftext|>
+<|startoftext|>End of the day, Humidity and temperature are greater than their preset values, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>Humidity and temperature are greater than their preset values, Air conditioner turns on mode is set to auto, Door is opened<|endoftext|>
+<|startoftext|>Time is night, Thermostat turns on and the mode is set to auto, Air conditioner is off and Time is evening<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Air conditioner is off and Time is evening, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>Air conditioner is off and Time is evening, Air conditioner turns on and mode is set to auto, Coffee maker turns off in the morning<|endoftext|>
+<|startoftext|>Air conditioner turns on and mode is set to auto, Coffee maker is off in the morning, Coffee maker turns on<|endoftext|>
+<|startoftext|>Coffee maker is off in the morning, Coffee maker turns on, Light bulb is off and motion is detected<|endoftext|>
+<|startoftext|>Time is morning, Rice cooker turns on, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on<|endoftext|>
+<|startoftext|>Rice cooker turns on, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, End of the day<|endoftext|>
+<|startoftext|>Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, End of the day, Gas level is greater than a preset value<|endoftext|>
+<|startoftext|>Smart mirror and Speaker turn on, End of the day, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren and Phone receives a notification<|endoftext|>
+<|startoftext|>End of the day, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren and Phone receives a notification, Gas level is greater than a preset value<|endoftext|>
+<|startoftext|>User is home, Time is night, Thermostat turns on and the mode is set to auto, Time is morning<|endoftext|>
+<|startoftext|>Time is night, Thermostat turns on and the mode is set to auto, Time is morning, Power outlet turns off<|endoftext|>
+<|startoftext|>Thermostat turns on and the mode is set to auto, Time is morning, Power outlet turns off, Time is night<|endoftext|>
+<|startoftext|>Time is morning, Power outlet turns off, Time is night, Door is locked<|endoftext|>
+<|startoftext|>Power outlet turns off, Time is night, Door is locked, Time is afternoon<|endoftext|>
+<|startoftext|>Rice cooker turns on, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on<|endoftext|>
+<|startoftext|>Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, Motion is detected<|endoftext|>
+<|startoftext|>Smart mirror and Speaker turn on, Motion is detected, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Time is morning, Rice cooker turns on, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on<|endoftext|>
+<|startoftext|>Rice cooker turns on, Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, Glass break detector detects a break<|endoftext|>
+<|startoftext|>Presence sensor detects the presence of the user, Smart mirror and Speaker turn on, Glass break detector detects a break, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Smart mirror and Speaker turn on, Glass break detector detects a break, Security alarm is strobing as well as issuing a siren, Pulse is higher than a preset value<|endoftext|>
+<|startoftext|>Glass break detector detects a break, Security alarm is strobing as well as issuing a siren, Pulse is higher than a preset value, Oil warmer turns on<|endoftext|>
+<|startoftext|>Motion is detected, Security camera takes a photo, Phone receives a notification, Air conditioner turns on and Time is night<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, Air conditioner turns on and Time is night, Air conditioner turns off<|endoftext|>
+<|startoftext|>Phone receives a notification, Air conditioner turns on and Time is night, Air conditioner turns off, Bread maker is off and Time is morning<|endoftext|>
+<|startoftext|>Air conditioner turns on and Time is night, Air conditioner turns off, Bread maker is off and Time is morning, Bread maker turns on<|endoftext|>
+<|startoftext|>Air conditioner turns off, Bread maker is off and Time is morning, Bread maker turns on, Bread maker turns off and Time is morning<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Smoke is detected<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Smoke is detected, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Smoke is detected, Security alarm is strobing as well as issuing a siren, End of the day<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, End of the day, Time is night<|endoftext|>
+<|startoftext|>End of the day, Time is night, Shades/blinds closes<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Shades/blinds opens<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Shades/blinds opens, Sleep monitor doesn't detect that the user is sleeping<|endoftext|>
+<|startoftext|>Shades/blinds opens, Sleep monitor doesn't detect that the user is sleeping, Channel in TV is changed<|endoftext|>
+<|startoftext|>Sleep monitor doesn't detect that the user is sleeping, Channel in TV is changed, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Channel in TV is changed, Security alarm is strobing as well as issuing a siren, Shades/blinds opens<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, Pressure detected by Blood pressure monitor is greater than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, Smoke is detected<|endoftext|>
+<|startoftext|>Phone receives a notification, Smoke is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Smoke is detected, Security alarm is in siren mode, Smoke is detected<|endoftext|>
+<|startoftext|>User is away, Motion is detected, Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, Water leak is detected<|endoftext|>
+<|startoftext|>Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, Water leak is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, Water leak is detected, Security alarm is in siren mode, Pulse is higher than a preset value<|endoftext|>
+<|startoftext|>Motion is detected, Security camera takes a photo, Phone receives a notification, Door is unlocked and the user is away<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, Door is unlocked and the user is away, Door is locked<|endoftext|>
+<|startoftext|>Phone receives a notification, Door is unlocked and the user is away, Door is locked, Garage door opens and user is away<|endoftext|>
+<|startoftext|>Door is unlocked and the user is away, Door is locked, Garage door opens and user is away, Garage door is closed<|endoftext|>
+<|startoftext|>Door is locked, Garage door opens and user is away, Garage door is closed, Clothes in the Dryer are completely dry<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, Clothes in the Dryer are completely dry<|endoftext|>
+<|startoftext|>Phone receives a notification, Clothes in the Dryer are completely dry, Phone receives a notification<|endoftext|>
+<|startoftext|>Clothes in the Dryer are completely dry, Phone receives a notification, Door is unlocked and the user is away<|endoftext|>
+<|startoftext|>Phone receives a notification, Door is unlocked and the user is away, Door is locked<|endoftext|>
+<|startoftext|>Door is unlocked and the user is away, Door is locked, Garage door opens and user is away<|endoftext|>
+<|startoftext|>User is away, Motion is detected, Security alarm is strobing as well as issuing a siren, Glass break detector detects a break<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Glass break detector detects a break, Security camera turns on<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Glass break detector detects a break, Security camera turns on, Glass break detector detects a break<|endoftext|>
+<|startoftext|>Glass break detector detects a break, Security camera turns on, Glass break detector detects a break, Security camera turns on<|endoftext|>
+<|startoftext|>Security camera turns on, Glass break detector detects a break, Security camera turns on, User is at vacation<|endoftext|>
+<|startoftext|>Door is opened, Motion is detected, Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, End of the day<|endoftext|>
+<|startoftext|>Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, End of the day, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, End of the day, Temperature is lesser than a preset value, Thermostat temperature increases<|endoftext|>
+<|startoftext|>User is home, Temperature is lesser than a preset value, Thermostat temperature increases, Temperature is greater than a preset value<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Thermostat temperature increases, Temperature is greater than a preset value, Thermostat temperature decreases<|endoftext|>
+<|startoftext|>Thermostat temperature increases, Temperature is greater than a preset value, Thermostat temperature decreases, User is home<|endoftext|>
+<|startoftext|>Temperature is greater than a preset value, Thermostat temperature decreases, User is home, Beacon device doesn't detect anyone present<|endoftext|>
+<|startoftext|>Thermostat temperature decreases, User is home, Beacon device doesn't detect anyone present, User is away<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Water leak is detected<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Water leak is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Water leak is detected, Security alarm is in siren mode, Time is night<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, Time is night, Door is locked<|endoftext|>
+<|startoftext|>Time is night, Door is locked, Glass break detector detects a break<|endoftext|>
+<|startoftext|>User is home, Temperature is lesser than a preset value, Thermostat temperature increases, Time is night<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Thermostat temperature increases, Time is night, Volume of Audio player is decreased<|endoftext|>
+<|startoftext|>Thermostat temperature increases, Time is night, Volume of Audio player is decreased, Temperature is lesser than a preset value<|endoftext|>
+<|startoftext|>Time is night, Volume of Audio player is decreased, Temperature is lesser than a preset value, Thermostat temperature increases<|endoftext|>
+<|startoftext|>Volume of Audio player is decreased, Temperature is lesser than a preset value, Thermostat temperature increases, Time is night<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Thermostat temperature increases, User is home<|endoftext|>
+<|startoftext|>Thermostat temperature increases, User is home, Air conditioner turns on and mode is set to auto<|endoftext|>
+<|startoftext|>User is home, Air conditioner turns on and mode is set to auto, Time is night<|endoftext|>
+<|startoftext|>Air conditioner turns on and mode is set to auto, Time is night, Audio player is muted<|endoftext|>
+<|startoftext|>Time is night, Audio player is muted, Light bulb is on and user is away<|endoftext|>
+<|startoftext|>Door is opened, Motion is detected, Security alarm is strobing as well as issuing a siren, End of the day<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, End of the day, Door is unlocked and the user is away<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, End of the day, Door is unlocked and the user is away, Door is locked<|endoftext|>
+<|startoftext|>End of the day, Door is unlocked and the user is away, Door is locked, Garage door opens and user is away<|endoftext|>
+<|startoftext|>Door is unlocked and the user is away, Door is locked, Garage door opens and user is away, Garage door is closed<|endoftext|>
+<|startoftext|>Temperature is lesser than a preset value, Thermostat temperature increases, Clothes dryer is in 'ready' mode<|endoftext|>
+<|startoftext|>Thermostat temperature increases, Clothes dryer is in 'ready' mode, Dryer is in heat mode<|endoftext|>
+<|startoftext|>Clothes dryer is in 'ready' mode, Dryer is in heat mode, Sleep monitor doesn't detect that the user is sleeping<|endoftext|>
+<|startoftext|>Dryer is in heat mode, Sleep monitor doesn't detect that the user is sleeping, Channel in TV is changed<|endoftext|>
+<|startoftext|>Sleep monitor doesn't detect that the user is sleeping, Channel in TV is changed, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Motion is detected, Security alarm is strobing as well as issuing a siren, Light bulb turns off<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Light bulb turns off, Filter of the refrigerator needs replacement<|endoftext|>
+<|startoftext|>Light bulb turns off, Filter of the refrigerator needs replacement, Phone receives a notification<|endoftext|>
+<|startoftext|>Filter of the refrigerator needs replacement, Phone receives a notification, User is away<|endoftext|>
+<|startoftext|>Phone receives a notification, User is away, Thermostat turns on and the mode is set to auto<|endoftext|>
+<|startoftext|>Shades/blinds closes, Security camera turns on, End of the day<|endoftext|>
+<|startoftext|>Security camera turns on, End of the day, User is home<|endoftext|>
+<|startoftext|>End of the day, User is home, Motion is not detected<|endoftext|>
+<|startoftext|>"User is home, Motion is not detected, Air conditioner, Fan and Light bulb turn off"<|endoftext|>
+<|startoftext|>"Motion is not detected, Air conditioner, Fan and Light bulb turn off, Pressure detected by Blood pressure monitor is greater than a preset value"<|endoftext|>
+<|startoftext|>Light bulb turns on, Security camera takes a photo, Phone receives a notification, End of the day<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, End of the day, Time is night<|endoftext|>
+<|startoftext|>Phone receives a notification, End of the day, Time is night, Channel in TV is changed<|endoftext|>
+<|startoftext|>End of the day, Time is night, Channel in TV is changed, Sleep monitor doesn't detect that the user is sleeping<|endoftext|>
+<|startoftext|>Time is night, Channel in TV is changed, Sleep monitor doesn't detect that the user is sleeping, Water heater turns on<|endoftext|>
+<|startoftext|>Light bulb turns off, Shades/blinds closes, Security camera turns on, End of the day<|endoftext|>
+<|startoftext|>Shades/blinds closes, Security camera turns on, End of the day, Gas stove turns off<|endoftext|>
+<|startoftext|>Security camera turns on, End of the day, Gas stove turns off, Carbon Monoxide is detected by CO Detector<|endoftext|>
+<|startoftext|>End of the day, Gas stove turns off, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Gas stove turns off, Carbon Monoxide is detected by CO Detector, Security alarm is in siren mode, Water leak is detected<|endoftext|>
+<|startoftext|>Light bulb turns off, Shades/blinds closes, Security camera turns on, Smoke is detected<|endoftext|>
+<|startoftext|>Shades/blinds closes, Security camera turns on, Smoke is detected, Security alarm is in siren mode<|endoftext|>
+<|startoftext|>Security camera turns on, Smoke is detected, Security alarm is in siren mode, End of the day<|endoftext|>
+<|startoftext|>Smoke is detected, Security alarm is in siren mode, End of the day, Motion is detected<|endoftext|>
+<|startoftext|>Security alarm is in siren mode, End of the day, Motion is detected, Light bulb is on and Phone receives a notification<|endoftext|>
+<|startoftext|>Light bulb turns on, Security camera takes a photo, Phone receives a notification, Gas level is greater than a preset value<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Phone receives a notification, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren, User is sleeping<|endoftext|>
+<|startoftext|>Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren, User is sleeping, Light bulb and TV turns off<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, User is sleeping, Light bulb and TV turns off, Moisture sensor detects moisture<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, Smoke is detected<|endoftext|>
+<|startoftext|>Phone receives a notification, Smoke is detected, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Smoke is detected, Security alarm is strobing as well as issuing a siren, Water leak is detected<|endoftext|>
+<|startoftext|>Security alarm is strobing as well as issuing a siren, Water leak is detected, Water valve closes<|endoftext|>
+<|startoftext|>Water leak is detected, Water valve closes, User is away<|endoftext|>
+<|startoftext|>Shades/blinds closes, Security camera turns on, End of the day<|endoftext|>
+<|startoftext|>Security camera turns on, End of the day, User is at vacation<|endoftext|>
+<|startoftext|>"End of the day, User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off"<|endoftext|>
+<|startoftext|>"User is at vacation, Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off, Door is opened and user is away"<|endoftext|>
+<|startoftext|>"Air conditioner turns off, Refrigerator temperature decreases and Water heater turns off, Door is opened and user is away, Security alarm is strobing as well as issuing a siren"<|endoftext|>
+<|startoftext|>Security camera takes a photo, Phone receives a notification, End of the day<|endoftext|>
+<|startoftext|>Phone receives a notification, End of the day, Air conditioner turns on and Time is night<|endoftext|>
+<|startoftext|>End of the day, Air conditioner turns on and Time is night, Air conditioner turns off<|endoftext|>
+<|startoftext|>Air conditioner turns on and Time is night, Air conditioner turns off, User is home<|endoftext|>
+<|startoftext|>Air conditioner turns off, User is home, Robot vacuum turns off and Thermostat turns on and is set to auto mode<|endoftext|>
+<|startoftext|>Time is night, Window opened, Phone receives a notification, User is away<|endoftext|>
+<|startoftext|>Window opened, Phone receives a notification, User is away, Air conditioner turns off and Security camera turns off<|endoftext|>
+<|startoftext|>Phone receives a notification, User is away, Air conditioner turns off and Security camera turns off, Pressure detected by Blood pressure monitor is greater than a preset value<|endoftext|>
+<|startoftext|>User is away, Air conditioner turns off and Security camera turns off, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Air conditioner turns off and Security camera turns off, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, End of the day<|endoftext|>
+<|startoftext|>Weather station declares the weather, Smart Assistant and Phone receives notification, Time is night and user is away<|endoftext|>
+<|startoftext|>Smart Assistant and Phone receives notification, Time is night and user is away, Light bulb turns off<|endoftext|>
+<|startoftext|>Time is night and user is away, Light bulb turns off, End of the day<|endoftext|>
+<|startoftext|>Light bulb turns off, End of the day, Door is unlocked at night<|endoftext|>
+<|startoftext|>End of the day, Door is unlocked at night, Door is locked<|endoftext|>
+<|startoftext|>Weather station declares the weather, Smart Assistant and Phone receives notification, Outlet turns on<|endoftext|>
+<|startoftext|>Smart Assistant and Phone receives notification, Outlet turns on, Battery level in the Smoke detector is below a preset value<|endoftext|>
+<|startoftext|>Outlet turns on, Battery level in the Smoke detector is below a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Battery level in the Smoke detector is below a preset value, Phone receives a notification, Gas level is greater than a preset value<|endoftext|>
+<|startoftext|>Phone receives a notification, Gas level is greater than a preset value, Security alarm is strobing as well as issuing a siren<|endoftext|>
+<|startoftext|>Window opened, Phone receives a notification, Doorbell is pushed<|endoftext|>
+<|startoftext|>Phone receives a notification, Doorbell is pushed, Security camera turns on<|endoftext|>
+<|startoftext|>Doorbell is pushed, Security camera turns on, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>Security camera turns on, Humidity is greater than a preset value, Smart mirror turns off<|endoftext|>
+<|startoftext|>Humidity is greater than a preset value, Smart mirror turns off, Humidity is greater than a preset value<|endoftext|>
+<|startoftext|>Time is morning, Weather station declares the weather, Smart Assistant and Phone receives notification, Channel in TV is changed<|endoftext|>
+<|startoftext|>Weather station declares the weather, Smart Assistant and Phone receives notification, Channel in TV is changed, Time is night<|endoftext|>
+<|startoftext|>Smart Assistant and Phone receives notification, Channel in TV is changed, Time is night, Channel in TV is changed<|endoftext|>
+<|startoftext|>Channel in TV is changed, Time is night, Channel in TV is changed, Smoke is detected<|endoftext|>
+<|startoftext|>Time is night, Channel in TV is changed, Smoke is detected, Phone receives a notification<|endoftext|>
+<|startoftext|>Time is night, Window opened, Phone receives a notification, Time is evening<|endoftext|>
+<|startoftext|>Window opened, Phone receives a notification, Time is evening, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>Phone receives a notification, Time is evening, Color of Light bulb is changed, Air quality is greater than a preset value<|endoftext|>
+<|startoftext|>Time is evening, Color of Light bulb is changed, Air quality is greater than a preset value, Air purifier turns off<|endoftext|>
+<|startoftext|>Color of Light bulb is changed, Air quality is greater than a preset value, Air purifier turns off, Smoke detector is tampered with<|endoftext|>
+<|startoftext|>Window opened, Phone receives a notification, Gas stove is on and timer is completed<|endoftext|>
+<|startoftext|>Phone receives a notification, Gas stove is on and timer is completed, Gas stove turns off<|endoftext|>
+<|startoftext|>Gas stove is on and timer is completed, Gas stove turns off, Pressure detected by Blood pressure monitor is greater than a preset value<|endoftext|>
+<|startoftext|>Gas stove turns off, Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification<|endoftext|>
+<|startoftext|>Pressure detected by Blood pressure monitor is greater than a preset value, Phone receives a notification, Pressure detected by Blood pressure monitor is greater than a preset value<|endoftext|>
+<|startoftext|>Time is morning, Weather station declares the weather, Smart Assistant and Phone receives notification, Color of Light bulb is changed<|endoftext|>
+<|startoftext|>Weather station declares the weather, Smart Assistant and Phone receives notification, Color of Light bulb is changed, Pressure detected by Blood pressure monitor is lesser than a preset value<|endoftext|>
+<|startoftext|>"Smart Assistant and Phone receives notification, Color of Light bulb is changed, Pressure detected by Blood pressure monitor is lesser than a preset value, Audio player turns on, color of the Light is changed and Phone receives a notification"<|endoftext|>
+<|startoftext|>"Color of Light bulb is changed, Pressure detected by Blood pressure monitor is lesser than a preset value, Audio player turns on, color of the Light is changed and Phone receives a notification, Pressure detected by Blood pressure monitor is lesser than a preset value"<|endoftext|>
+<|startoftext|>"Pressure detected by Blood pressure monitor is lesser than a preset value, Audio player turns on, color of the Light is changed and Phone receives a notification, Pressure detected by Blood pressure monitor is lesser than a preset value, Audio player turns on, color of the Light is changed and Phone receives a notification"<|endoftext|>
