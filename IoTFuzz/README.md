@@ -33,14 +33,21 @@ git clone https://github.com/XinboPHD/PhD_thesis/IoTFuzz.git
 
 
 ## Virtural Machine
+If you use vitural machine to build environment, I would recommand you to download the virtual machine image and run IoTFuzz.
+
+OS: Windows 10 (Suggest turning off automatical update)
+
+User name: administrator
+
+No password
+
+Conda environment name: IoTFuzz
+
 We pre-install IoTFuzz and relevant softwares in a virutal machine, built in Windows 10 OS. It can be download from here. 
 The virtual machine is created in VMware Fusion. The environment can succesfully support IoTFuzz running.
 
 
-
 Note: MATLAB requires liciences to use. The MATLAB in virtual machine is deactivated. IoTFuzz can run after is activated. Otherwise it reports an error.
-
-
 
 
 ## Usage
