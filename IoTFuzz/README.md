@@ -73,6 +73,9 @@ For fuzzing type `env`, change `excel_path = Outdoor_weather/xlsxNoNoise/YearbyY
 For fuzzing type `no_gui`,  `initial_parameters_path = initial_parameters/Experiments_used` specify the input folder, either change the documnets in this folder or change path.
 
 
+### Result
+The results are saved in folder `result` for both fuzzing types. Raw data records the details of simulation and checking results. A script is provided to extract and summary the results.
+
 
 
 ## Violation discovered by IoTFuzz
@@ -84,14 +87,8 @@ If you want to closely look into bug cases discovered by IoTFuzz, please review 
 
 
 ## Demonstration videos
-### Case 1
-- <a href="https://youtu.be/EiWLCj-pQ7M"> Correct behavior of the parachute </a>
-- <a href="https://youtu.be/nhmKE03-bnk"> (i) Buggy behavior of the parachute and (ii) parachute operations after patching the bug</a>  
-<br> <b>Q</b>: Why is this case a logic bug? <br>
-<b>A</b>: the ArduPilot official documentation states that the following four conditions must hold to deploy a parachute while preserving the drone safety: (1) the motors must be armed, (2) the vehicle must not be in the FLIP or ACRO flight modes, (3) the barometer must show that the
-vehicle is not climbing, and (4) the vehicle’s current altitude must be above the CHUTE_ALT_MIN parameter value. <br>
-we found that ArduPilot improperly checks the first three requirements. 
-This leads to a policy violation where the vehicle deploys the parachute when it is climbing, causing it to crash on the ground. 
+- <a href="https://youtu.be"> A demo for smart home protection </a>
+
 
 
 
@@ -99,8 +96,14 @@ This leads to a policy violation where the vehicle deploys the parachute when it
 ##  NLP Analysis
 Here, I would like to explain how to use NLP techniques to find correlation between rules and policies. ArduPilot to a bitcode file because I got several emails asking about it.
 
-### 1) Environment
-- ArduPilot: copter 4.1 version (https://github.com/ArduPilot/ardupilot/commit/68619c308737e5199992a9523bacabe9710c8e7e)
-- LLVM 13.0.0
-- Ubuntu 20.04
+A Correlation Engine that leverages NLP in the design of text similarity computation architecture, an overview of which is given as follow. It is defined as a classification task, using a pre-trained language model to specify whether a policy should be included. To simplify the analysis of unstructured text, it first performs Part-of-Speech (POS) tagging and decompose the key terms of SHs. Nouns are the key terms that are further processed to find the maps of rules and policies. 
+
+<img  src="https://github.com/XinboPHD/PhD_thesis/blob/main/IoTFuzz/images/NLP.png">
+
+This figure shows the a example of POS tagging and the nouns are easily found in the textual sentence. For example, "When humidity is below the threshold, turn on the humidifier" has 2 terms, a device humidifier and physical channel humidity, expressed as nouns in this rule. We extract nouns and construct a collection of them (humidifier, humidity).
+
+<img width = "500" src="https://github.com/XinboPHD/PhD_thesis/blob/main/IoTFuzz/images/PosTagging.png">
+
+## Tips
+
 
