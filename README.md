@@ -26,7 +26,7 @@ emerging technologies, such as 5G, is bringing about a paradigm shift in IoT his
 
 |Chapter         | Source code          | Paper accepted by|
 |:-------------|:------------------|:------|
-|Literature Review    |None     |[International Conference on Network and System Security (NSS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-23020-2_15)) |
+|Literature Review    |[Reviewed papers](https://github.com/BeauBan/Recent-IoT-based-Smart-Home-Security-and-Safety-Paper)     |[International Conference on Network and System Security (NSS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-23020-2_15)) |
 |TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |[TAESim](https://github.com/XinboPHD/PhD_thesis/tree/main/TAESim)    |[European Symposium on Research in Computer Security (ESORICS), 2022](https://beauban.github.io/papers/TAESim.pdf) |
 |Automatic Topic Generation of Smart Homes for Security, Safety, and Privacy Analysis     |[SHSGen](https://github.com/XinboPHD/PhD_thesis/tree/main/SHSGen)     |Under review |
 |IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment     |[IoTFuzz](https://github.com/XinboPHD/PhD_thesis/tree/main/IoTFuzz)    |Under reivew |
