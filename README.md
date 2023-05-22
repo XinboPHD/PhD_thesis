@@ -1,6 +1,6 @@
 # PhD Thesis: Protect Smart Homes from Vulnerabilities: Large-Scale Testbed, Static and Dynamic Techniques
 
-Everything about code sources, datasets and data sources mentioned in the thesis.
+Everything about research work, source code, and datasets mentioned in the thsis.
 
 _ _ _
 
