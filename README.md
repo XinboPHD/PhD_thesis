@@ -24,12 +24,12 @@ emerging technologies, such as 5G, is bringing about a paradigm shift in IoT his
 
 
 
-|Chapter         | Related Work          | Accepted/Published by|
+|Chapter         | Source code          | Paper accepted by|
 |:-------------|:------------------|:------|
-|Literature Review    |A Survey on IoT Vulnerability Discovery     |[International Conference on Network and System Security (NSS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-23020-2_15)) |
-|TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |[European Symposium on Research in Computer Security (ESORICS), 2022](https://beauban.github.io/papers/TAESim.pdf) |
-|Automatic Topic Generation of Smart Homes for Security, Safety, and Privacy Analysis     |To submit to...     |None |
-|IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment     |IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment    |Under Reivew |
+|Literature Review    |None     |[International Conference on Network and System Security (NSS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-23020-2_15)) |
+|TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |[TAESim](https://github.com/XinboPHD/PhD_thesis/tree/main/TAESim)    |[European Symposium on Research in Computer Security (ESORICS), 2022](https://beauban.github.io/papers/TAESim.pdf) |
+|Automatic Topic Generation of Smart Homes for Security, Safety, and Privacy Analysis     |[SHSGen](https://github.com/XinboPHD/PhD_thesis/tree/main/SHSGen)     |Under review |
+|IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment     |[IoTFuzz](https://github.com/XinboPHD/PhD_thesis/tree/main/IoTFuzz)    |Under reivew |
 
 
 _ _ _
