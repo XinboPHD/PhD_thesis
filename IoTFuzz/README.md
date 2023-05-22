@@ -40,7 +40,7 @@ Here is the [link](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/l
 
 **User name:** administrator
 
-**No password
+**No password**
 
 **Conda environment name:** IoTFuzz
 
