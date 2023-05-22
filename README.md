@@ -29,7 +29,6 @@ emerging technologies, such as 5G, is bringing about a paradigm shift in IoT his
 |Literature Review    |A Survey on IoT Vulnerability Discovery     |[International Conference on Network and System Security (NSS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-23020-2_15)) |
 |TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |[European Symposium on Research in Computer Security (ESORICS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-030-95484-0_14) |
 |Automatic Topic Generation of Smart Homes for Security, Safety, and Privacy Analysis     |To submit to...     |None |
-|The Audio Auditor: No-Label User-Level Membership Inference in Internet of Things Voice Services    |To submit to...    |None |
 |IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment     |IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment    |Under Reivew |
 
 
