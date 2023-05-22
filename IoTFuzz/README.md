@@ -115,3 +115,9 @@ This figure shows the a example of POS tagging and the nouns are easily found in
 <!-- ## Tips
  -->
 
+
+# License
+---------
+
+This project is licensed under the MIT License - see the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ file for details.
