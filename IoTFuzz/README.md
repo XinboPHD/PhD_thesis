@@ -111,6 +111,6 @@ This figure shows the a example of POS tagging and the nouns are easily found in
 
 <img width = "500" src="https://github.com/XinboPHD/PhD_thesis/blob/main/IoTFuzz/images/PosTagging.png">
 
-## Tips
-
+<!-- ## Tips
+ -->
 
