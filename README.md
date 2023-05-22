@@ -27,7 +27,7 @@ emerging technologies, such as 5G, is bringing about a paradigm shift in IoT his
 |Chapter         | Related Work          | Accepted/Published by|
 |:-------------|:------------------|:------|
 |Literature Review    |A Survey on IoT Vulnerability Discovery     |[International Conference on Network and System Security (NSS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-031-23020-2_15)) |
-|TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |[European Symposium on Research in Computer Security (ESORICS), 2022](https://dl.acm.org/doi/abs/10.1007/978-3-030-95484-0_14) |
+|TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |TAESim: A Testbed for IoT Security Analysis of Trigger-Action Environment    |[European Symposium on Research in Computer Security (ESORICS), 2022](https://beauban.github.io/papers/TAESim.pdf) |
 |Automatic Topic Generation of Smart Homes for Security, Safety, and Privacy Analysis     |To submit to...     |None |
 |IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment     |IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment    |Under Reivew |
 
@@ -49,7 +49,7 @@ Part of the content comes from our survey paper: A Survey on IoT Vulnerability D
 
 
 _ _ _
-### [TAESim: A Testbed for IoT Security Analysis of Trigger-action Environment](https://dl.acm.org/doi/abs/10.1007/978-3-030-95484-0_14)
+### [TAESim: A Testbed for IoT Security Analysis of Trigger-action Environment](https://beauban.github.io/papers/TAESim.pdf)
 <p>Abstract:</p>
 <p>The Internet of Things (IoT) networks promote significant convenience in every aspect of our life, including smart vehicles, smart cities, smart homes, etc. With the advancement of IoT technologies, the IoT platforms bring many new features to the IoT devices so that these devices can not only passively monitor the environment (e.g. conventional sensors), but also interact with the physical surroundings (e.g. actuators). In this light, new problems of safety and security arise due to the new features. For instance, the unexpected and undesirable physical interactions might occur among devices, which is known as inter-rule vulnerability. A few work have investigated the inter-rule vulnerability from both cyberspace and physical channels. Unfortunately, only few research papers take advantage of run-time simulation techniques to properly model trigger action environments. Moreover, no simulation platform is capable of modeling primary physical channels and studies the impacts of physical interactions on IoT safety and security. In this paper, we introduce TAESim, a simulation testbed to support reusable simulations in the research of IoT safety and security, especially for the IoT activities in home automation that could involve possibly unexpected interactions. TAESim operates over MATLAB/Simulink and constructs a digital twin for modeling the nature of the trigger-action environment using simulations. It is an open-access platform and can be used by the research community, government, and industry who work toward preventing the safety and security consequences in the IoT ecosystem. In order to evaluate the effectiveness and effciency of the testbed, we conduct some experiments and the results show that the simulations are completed in a few seconds. We also present two case studies that can report unexpected consequences.</p>
 
