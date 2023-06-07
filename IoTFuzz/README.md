@@ -95,7 +95,9 @@ If you want to closely look into bug cases discovered by IoTFuzz, please review 
 
 
 ## Demonstration videos
-- <a href="https://youtu.be"> A demo for smart home protection </a>
+- <a href="https://www.youtube.com/watch?v=NUHTzmf0aD4"> A demo for smart home protection (GUI) </a>
+- - <a href="https://www.youtube.com/watch?v=nIXWrMqbt5E"> A demo for smart home protection (Command line)</a>
+
 
 
 
