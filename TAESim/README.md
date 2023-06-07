@@ -2,7 +2,7 @@
 # TAESim
 This is a MATLAB implementation of the trigger-action environment
 It includes cyberspace/physical channels, rules, and devices to create trigger-action environment implementations for smart home scenarios.
-Also act as basis of IoTFuzz.
+Also act as basis of IoTFuzz. Basic usage refers to this [demo](https://www.youtube.com/watch?v=vO7y6Rm1vg8).
 
 
 ### Abstract
