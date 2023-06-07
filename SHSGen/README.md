@@ -2,9 +2,12 @@
 ---------------------------------------
 
 # Introduction
-This tool is the protype code of the tool in 
+This tool is the protype code in 
 Paper "Topic Generation",
 a Machine Learning based topic generation for smart home securtiy and safety.
+
+A demo can be found [here](https://www.youtube.com/watch?v=Snj1EdIlHco).
+
 
 # Framework
 Here are Four components:
